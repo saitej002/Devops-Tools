@@ -54,3 +54,15 @@ To remove the file from git
 You need to run above steps in git 
 
 To clear the command line use cls 
+
+
+Git clone is used to clone the repository to local
+
+Git clone https://github.com/
+
+git clone https://github.com/saitej002/Devops-Tools.git
+
+
+where every doing any change in the git repository you need to pull the new changes.
+git pull 
+
