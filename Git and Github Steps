@@ -1,0 +1,56 @@
+cd Downloads 
+
+Git steps
+
+To check git installed on system or not
+
+git --version
+
+
+To check it configured or not 
+
+git config --global user.name
+
+git config --global user.email
+
+If you want to add username
+
+git config --global user.name sai
+
+git config --global user.email v.saiteja77@gmail.com
+
+
+
+Github
+
+In GitHub you need to create one repo by clicking on the + plus button
+
+Give repo name and click on create 
+once done you will get below commands 
+
+
+Github
+
+git init
+
+git add . (we can add any filename in place of dot)
+
+git status
+
+git commit
+
+git commit -m"first commit"
+
+git remote add origin https://github.com/saitej002/Devops-Tools.git
+
+git branch -M main
+
+git status
+
+git rm filename   (remove command)
+
+To remove the file from git 
+
+You need to run above steps in git 
+
+To clear the command line use cls 
